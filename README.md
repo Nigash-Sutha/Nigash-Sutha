@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Learning+Git+%26+GitHub;Docker+%7C+Linux+%7C+Python%7C+Powershell;Frontend+Development;I+survive+SQL...+sometimes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Learning+Git+%26+GitHub;Docker+%7C+Linux+%7C+Powershell%7C+Powerapps;Frontend+Development;I+survive+SQL...+sometimes" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 > Name: Youngxmoneyyx
 > Location: Switzerland 🇨🇭
 > Focus: Frontend Development
-> Learning: Git, Docker, Linux, Python
+> Learning: Git, Docker, Linux, Powershell, Powerapps
 > Fun fact: SQL and I are not best friends
 ```
 
