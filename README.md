@@ -30,3 +30,62 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
+
+
+## 📊 Skill Statistics
+
+<table align="center">
+  <tr>
+    <th>Technology</th>
+    <th>Level</th>
+    <th>Progress</th>
+  </tr>
+
+  <tr>
+    <td>🌐 HTML / CSS</td>
+    <td><b>70%</b></td>
+    <td><img src="https://geps.dev/progress/70" width="250" /></td>
+  </tr>
+
+  <tr>
+    <td>🐍 Python</td>
+    <td><b>50%</b></td>
+    <td><img src="https://geps.dev/progress/50" width="250" /></td>
+  </tr>
+
+  <tr>
+    <td>⚙️ Git / GitHub</td>
+    <td><b>50%</b></td>
+    <td><img src="https://geps.dev/progress/50" width="250" /></td>
+  </tr>
+
+  <tr>
+    <td>🐧 Linux</td>
+    <td><b>60%</b></td>
+    <td><img src="https://geps.dev/progress/60" width="250" /></td>
+  </tr>
+
+  <tr>
+    <td>🐳 Docker</td>
+    <td><b>40%</b></td>
+    <td><img src="https://geps.dev/progress/40" width="250" /></td>
+  </tr>
+
+  <tr>
+    <td>💙 PowerShell</td>
+    <td><b>40%</b></td>
+    <td><img src="https://geps.dev/progress/40" width="250" /></td>
+  </tr>
+
+  <tr>
+    <td>🟩 Nginx</td>
+    <td><b>35%</b></td>
+    <td><img src="https://geps.dev/progress/35" width="250" /></td>
+  </tr>
+
+  <tr>
+    <td>🗄️ SQL</td>
+    <td><b>20%</b></td>
+    <td><img src="https://geps.dev/progress/20" width="250" /></td>
+  </tr>
+</table>
