@@ -61,26 +61,26 @@
 
   <tr>
     <td>🐧 Linux</td>
+    <td><b>65%</b></td>
+    <td><img src="https://geps.dev/progress/65" width="250" /></td>
+  </tr>
+
+  <tr>
+    <td>🐳 Docker</td>
     <td><b>60%</b></td>
     <td><img src="https://geps.dev/progress/60" width="250" /></td>
   </tr>
 
   <tr>
-    <td>🐳 Docker</td>
-    <td><b>40%</b></td>
-    <td><img src="https://geps.dev/progress/40" width="250" /></td>
-  </tr>
-
-  <tr>
     <td>💙 PowerShell</td>
-    <td><b>40%</b></td>
-    <td><img src="https://geps.dev/progress/40" width="250" /></td>
+    <td><b>80%</b></td>
+    <td><img src="https://geps.dev/progress/80" width="250" /></td>
   </tr>
 
   <tr>
     <td>🟩 Nginx</td>
-    <td><b>35%</b></td>
-    <td><img src="https://geps.dev/progress/35" width="250" /></td>
+    <td><b>40%</b></td>
+    <td><img src="https://geps.dev/progress/40" width="250" /></td>
   </tr>
 
   <tr>
