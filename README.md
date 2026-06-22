@@ -18,3 +18,6 @@
 > Focus: Frontend Development
 > Learning: Git, Docker, Linux, Python
 > Fun fact: SQL and I are not best friends
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nigash-Sutha&show_icons=true&theme=tokyonight&hide_border=true" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nigash-Sutha&layout=compact&theme=tokyonight&hide_border=true" height="170" /> </p>
